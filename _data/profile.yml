@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Jian Zou's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D., Shenzhen University (2023)'
+  - '<span class="no-break"><img src="assets/images/badges/SZU.jpg" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D., Shenzhen University (2023)'
 
 email: "zoujian250@gmail.com"
 gscholar: QIppUWkAAAAJ
@@ -28,7 +28,7 @@ portrait_caption: >-
 
 education:
 - name: Shenzhen University
-  logo: assets/images/badges/mpu_master.png
+  logo: assets/images/badges/SZU.jpg
   position: Ph.D. in College of Applied Technology
   date: Sep. 2023 - 
 - name: Hunan Institute of Science and Technology
