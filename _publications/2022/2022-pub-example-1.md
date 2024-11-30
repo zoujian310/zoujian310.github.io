@@ -17,4 +17,5 @@ authors:
   - Xin Peng†
 links:
   Paper: https://doi.org/10.1109/LCOMM.2022.3198793
+  Cite: assets/bibtex/zou2023phycom.bib
 ---
