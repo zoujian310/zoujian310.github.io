@@ -7,8 +7,8 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal
 pub_date:       "2024"
 
 abstract: >-
-  This paper proposes a novel MS-DeepSC framework based on meta-learning with stochastic gradient descent (Meta-SGD), which includes a lightweight S-Receiver receiver inspired by MobileNetV2 and a self-attention dynamic 
- mbedding encoding (SA-DEE) technique.
+  This paper proposes a novel MS DeepSC framework based on meta-learning with stochastic gradient descent (Meta SGD), which includes a lightweight S Receiver receiver inspired by MobileNetV2 and a self attention dynamic 
+ mbedding encoding (SA DEE) technique.
   
 cover:          assets/images/covers/3mt.png
 authors:
