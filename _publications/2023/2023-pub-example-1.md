@@ -1,5 +1,5 @@
 ---
-title:          Real and fake channel: GAN-based wireless channel modeling and generating
+title:          Real and fake channel GAN-based wireless channel modeling and generating
 date:           2023-12-01 00:01:00 +0800
 selected:       true
 pub:            "Physical Communication"
