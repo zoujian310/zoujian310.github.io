@@ -1,27 +1,24 @@
 ---
-title:          XrayGLM： Summarizing Chest X-ray Reports Using a Large Medical Visual Language Model
-# date:           2024-07-17 00:01:00 +0800
+title:          Semantic Communication System Based on Meta-Learning Framework
+date:           2024-11-30 00:01:00 +0800
 selected:       true
 # pub:            "RSNA’s Cutting-Edge Research"
-pub_pre:        "Submitted to "
+pub_pre:        "Submitted to IEEE Communications Letters "
 pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
-# pub_date:       "2024"
+pub_date:       "2024"
 
 abstract: >-
-  We introduce XrayGLM, a conversational medical visual language model that analyzes and summarizes chest X-rays, aimed at improving domain-specific expertise for radiology tasks compared to general large models.
+  This paper proposes a semantic communication system based on a meta-learning (ML) framework. This system is designed to achieve high transmission reliability and generalizability, even in communication scenarios with limited data.
   
 cover:          assets/images/covers/xrayglm.png
 authors:
-  - Lin Li
-  - Rongsheng Wang
-  - Qimin Yang
-  - Jiexin Chen
-  - Patrick Cheong-Iao Pang
-  - Yapeng Wang
-  - Ka-Hou Chan
-  - Tao Tan
-  - Jie Ma†
+  - Wenwu Xie
+  - Tao Zhang
+  - Ming Xiong
+  - Jian Zou
+  - Ji Wang†
+  - Liang Yang
 links:
-  Code: https://github.com/WangRongsheng/XrayGLM
+#  Code: https://github.com/WangRongsheng/XrayGLM
 ---
