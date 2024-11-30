@@ -6,7 +6,7 @@ pub:            "IEEE Communications Letters"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       "2022"
 abstract: >-
-  We propose BGANR, a recommendation model that applies bidirectional graph attention on knowledge graphs to capture symmetric relationships and uses a dynamic activation function to overcome gradient vanishing, outperforming state-of-the-art methods on benchmark datasets.
+  Reconfigurable intelligent surface (RIS) has become one of the key technologies for future 6G communications due to its characteristics of an intelligent and controllable wireless environment. In the frequency division duplex mode, the user equipment feeds back the downlink channel state information (CSI) to the base station through the feedback link, to obtain potential gains for the RIS-aided wireless communication system. A large number of RIS reflection elements greatly increase the feedback link cost of the system. In this letter, Quan-Transformer, a sample network framework for CSI compression and reconstruction, is proposed based on Transformer network. The proposed framework can not only compress CSI effectively but also recover CSI with high precision, which improves the performance of the RIS-aided wireless communication system. According to the experimental results, compared with the CsiNet scheme, the achievable sum-rate and normalized mean squared error of the proposed scheme are increased by 6.57% and 3.32%, respectively.
   
 cover:          assets/images/covers/bganr.png
 authors:
