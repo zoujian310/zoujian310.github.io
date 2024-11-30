@@ -1,11 +1,11 @@
 ---
-title:          Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise
-date:           2024-06-18 00:01:00 +0800
+title:          Deep Receiver for Multi-Layer Data Transmission with Superimposed Pilots
+#date:           2024-06-18 00:01:00 +0800
 selected:       true
 pub:            "Long-Context Foundation Models (LCFM) at ICML 2024"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_pre:        "Submitted to "
+pub_post:       'Under review.'
+#pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 
 abstract: >-
