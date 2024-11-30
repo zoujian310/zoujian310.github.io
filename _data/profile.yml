@@ -41,15 +41,15 @@ education:
   position: B.S. in Information Science and Engineering
   date: Sep. 2016 - Jul. 2020
   
-experience:
-- name: Qiyuan.Tech
-  logo: assets/images/badges/qiyuan.png
-  position: CTO, Reasercher
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+# experience:
+# - name: Qiyuan.Tech
+#   logo: assets/images/badges/qiyuan.png
+#   position: CTO, Reasercher
+#   date: Oct. 2023 - Now
+# - name: HKUST (GZ) 
+#   logo: assets/images/badges/hkust-gz.png
+#   position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
+#   date: Feb. 2024 -	May 2024
 
 
 awards:
