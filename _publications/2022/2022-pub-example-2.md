@@ -10,9 +10,11 @@ abstract: >-
   
 cover:          assets/images/covers/bganr.png
 authors:
-  - Hui Ning†
-  - Rongsheng Wang
-  - Pengwei Yang
+  - Wenwu Xie
+  - Jian Zou
+  - Jian Xiao
+  - Min Li
+  - Xin Peng†
 links:
-  Paper: https://doi.org/10.12208/j.aics.20220057
+  Paper: https://doi.org/10.1109/LCOMM.2022.3198793
 ---
