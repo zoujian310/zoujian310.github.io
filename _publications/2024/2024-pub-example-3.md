@@ -17,7 +17,6 @@ authors:
   - Shuai Liu
   - Yongsheng Liang†
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0010482524004839
-  Demo: https://qa.glaucoma-assistant.com/#/qa
-  Cite: assets/bibtex/xue2024xiaoqing.bib
+  Paper: 10.1109/LWC.2024.3509612
+  Cite: assets/bibtex/zou2024lwc.bib
 ---
