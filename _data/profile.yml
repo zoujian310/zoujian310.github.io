@@ -57,7 +57,7 @@ awards:
   date: 2022
 - name: HNIST Pacemaker to Merit Graduate Student
   date: 2023
-- name: HNIST second-class scholarship [<a href="#">Certificate</a>]
+- name: HNIST second-class scholarship [<a href="assets/bibtex/xie2024lwc.bib" target="_blank">Certificate</a>]
   date: 2023
 - name: HNIST Merit Graduate Student
   date: 2022
@@ -74,4 +74,4 @@ awards:
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/zoujian310" target="_blank">Jian Zou</a>. All Rights Reserved.
+  Copyright © 2024 <a href=href="https://github.com/zoujian310" target="_blank">Jian Zou</a>. All Rights Reserved.
