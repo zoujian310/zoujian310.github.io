@@ -18,5 +18,6 @@ authors:
   - Liang Yang
   - Jian Zou
 links:
-#  Paper: https://xplorestaging.ieee.org/document/10771961
+  Paper: https://doi.org/10.1109/LWC.2024.3510722
+  Cite: assets/bibtex/zou2024lwc.bib
 ---
