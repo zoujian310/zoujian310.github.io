@@ -19,5 +19,5 @@ authors:
   - Jian Zou
 links:
   Paper: https://doi.org/10.1109/LWC.2024.3510722
-  Cite: assets/bibtex/zou2024lwc.bib
+  Cite: assets/bibtex/xie2024lwc.bib
 ---
