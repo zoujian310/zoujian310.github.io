@@ -1,4 +1,4 @@
 ---
-title: <span class="badge badge-pill badge-info">Competition</span> Our team (<strong>Jian Zou</strong>, Zhaofeng Wu, and Tiewei Li) was awarded the <strong>second prize</strong> in the 7th Hunan Province Graduate Mathematical Modeling Competition. [<a href="https://google.com" target="_blank">Certificate</a>] The 7th Hunan Province Graduate Mathematical Modeling Competition
+title: <span class="badge badge-pill badge-info">Competition</span> Our team (<strong>Jian Zou</strong>, Zhaofeng Wu, and Tiewei Li) was awarded the <strong>second prize</strong> in the 7th Hunan Province Graduate Mathematical Modeling Competition. [<a href="#" target="_blank">Certificate</a>] 
 date: 2022-11-28 00:01:00 +0800
 ---
