@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Jian Zou's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/SZU.jpg" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D., Shenzhen University (2023-)'
+  - '<span class="no-break"><img src="assets/images/badges/SZU.jpg" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D., Shenzhen University (2023 - )'
 
 email: "zoujian250@gmail.com"
 gscholar: QIppUWkAAAAJ
@@ -57,15 +57,15 @@ awards:
   date: 2022
 - name: HNIST Pacemaker to Merit Graduate Student
   date: 2023
-- name: HNIST second-class scholarship [<a href="https://www.baidu.com">Certificate</a>]
+- name: HNIST second-class scholarship [<a href="#">Certificate</a>]
   date: 2023
 - name: HNIST Merit Graduate Student
   date: 2022
-- name: HNIST first-class scholarship [<a href="https://www.baidu.com">Certificate</a>]
+- name: HNIST first-class scholarship [<a href="#">Certificate</a>]
   date: 2022
 - name: HNIST Pacemaker to Merit Graduate Student
   date: 2021
-- name: HNIST first-class scholarship [<a href="https://www.baidu.com">Certificate</a>]
+- name: HNIST first-class scholarship [<a href="#">Certificate</a>]
   date: 2021
 
 # service:
