@@ -3,7 +3,7 @@ title:          Non-Orthogonal Superimposed Pilot Transmission for Digital Seman
 date:           2025-02-16 00:01:00 +0800
 selected:       true
 # pub:            "RSNA’s Cutting-Edge Research"
-pub_pre:        "Submitted to IEEE Transactions on Cognitive Communications and Networking"
+pub_pre:        "Submitted to IEEE Transactions on Cognitive Communications and Networking "
 pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date:       "2025"
