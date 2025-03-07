@@ -1,7 +1,7 @@
 ---
 title:          Semantic Communication System Based on Meta-Learning Framework
 date:           2024-11-30 00:01:00 +0800
-selected:       true
+selected:       false
 # pub:            "RSNA’s Cutting-Edge Research"
 pub_pre:        "Submitted to IEEE Communications Letters "
 pub_post:       'Under review.'
