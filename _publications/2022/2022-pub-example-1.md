@@ -1,7 +1,7 @@
 ---
 title:          Quan-Transformer Based Channel Feedback for RIS-Aided Wireless Communication Systems
 date:           2022-08-16 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Communications Letters"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       "2022"
