@@ -1,7 +1,7 @@
 ---
 title:          A Data Transmission Method for Feature Extraction and Semantic Enhancement of Scarce Data
 date:           2024-11-29 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Wireless Communications Letters"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       "2024"
