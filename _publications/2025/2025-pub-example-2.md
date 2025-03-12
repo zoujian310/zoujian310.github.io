@@ -20,4 +20,5 @@ authors:
 links:
   Paper: https://ieeexplore.ieee.org/document/10890516
   Poster: assets/images/poster/ICASSP 2025-Poster.pdf
+  Cite: assets/bibtex/Zou2025ICASSP.bib
 ---
