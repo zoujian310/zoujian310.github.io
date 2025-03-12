@@ -18,6 +18,8 @@ authors:
   - Bohuai Xiao
   - Yongsheng Liang†
 links:
-#  Paper: https://arxiv.org/abs/2407.11536
-#  Poster: assets/images/poster/icml2024-ws.jpeg
+  Paper: https://ieeexplore.ieee.org/document/10890516
+  Poster: assets/images/poster/icml2024-ws.jpeg
+  Video: assets/images/poster/icml2024-ws.jpeg
+
 ---
