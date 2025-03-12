@@ -16,7 +16,6 @@ authors:
   - Jian Zou
   - Shouyin Liu†
 links:
-  Paper: 10.1109/ICMSP64464.2024.10866926
-          https://ieeexplore.ieee.org/document/10866926
+  Paper: https://ieeexplore.ieee.org/document/10866926
 #  Poster: assets/images/poster/icml2024-ws.jpeg
 ---
