@@ -9,7 +9,7 @@ pub_date:       "2025"
 abstract: >-
   We investigate a multi-layer data transmission scheme with superimposed pilots (SIPs) to enhance the throughput of multiple-input multiple-output orthogonal frequency-division multiplexing systems. We propose a deep learning-based receiver architecture, named SANet, which leverages the parallel processing capabilities of the multi-head self-attention (MHSA) mechanism.
   
-cover:          assets/images/covers/ICASSP 2025-Poster.pdf
+cover:          assets/images/covers/ICASSP 2025 System model.jpg
 authors:
   - Jian Zou
   - Jian Xiao
