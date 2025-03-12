@@ -4,7 +4,7 @@ date:           2024-12-21 00:01:00 +0800
 selected:       true
 pub:            "2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
-pub_date:       "2024"
+pub_date:       "2025"
 
 abstract: >-
   We investigate a multi-layer data transmission scheme with superimposed pilots (SIPs) to enhance the throughput of multiple-input multiple-output orthogonal frequency-division multiplexing systems. We propose a deep learning-based receiver architecture, named SANet, which leverages the parallel processing capabilities of the multi-head self-attention (MHSA) mechanism.
