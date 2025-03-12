@@ -19,5 +19,5 @@ authors:
   - Yongsheng Liang†
 links:
   Paper: https://ieeexplore.ieee.org/document/10890516
-  #Poster: assets/images/poster/icml2024-ws.jpeg
+  Poster: assets/images/covers/ICASSP 2025-Poster.pdf
 ---
