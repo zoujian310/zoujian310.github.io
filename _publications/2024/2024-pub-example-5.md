@@ -17,5 +17,6 @@ authors:
   - Shouyin Liu†
 links:
   Paper: https://ieeexplore.ieee.org/document/10866926
+  Cite: assets/bibtex/Li2024ICMSP.bib
 #  Poster: assets/images/poster/icml2024-ws.jpeg
 ---
