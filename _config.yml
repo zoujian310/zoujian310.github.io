@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zou Jian"
+title                    : "Jian Zou （邹建）"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "zoujian310/zoujian310.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zou Jian"
+  name             : "Jian Zou （邹建）"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shenzhen University"
   location         : "Shenzhen, China"
