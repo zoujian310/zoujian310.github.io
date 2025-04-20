@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Zou"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Jian Zou（邹建）"
+description              : "Ph.D. candidate at Shenzhen University, College of Applied Technology, focusing on semantic communication, deep receivers, and channel feedback. "
 repository               : "zoujian310/zoujian310.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=u_UQv6EAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=QIppUWkAAAAJ&hl=zh-CN"
   email            : "zoujian250@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
