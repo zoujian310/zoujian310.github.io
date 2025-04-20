@@ -1,13 +1,4 @@
 # 📖 Educations
-- name: Shenzhen University
-  logo: assets/images/badges/SZU.jpg
-  position: Ph.D. in College of Applied Technology
-  date: Sep. 2023 - 
-- name: Hunan Institute of Science and Technology
-  logo: assets/images/badges/HNIST.jpg
-  position: M.S. in Department of Information Science and Engineering
-  date: Sep. 2020 - Jul. 2023
-- name: Hunan Institute of Science and Technology
-  logo: assets/images/badges/HNIST.jpg
-  position: B.S. in Department of Information Science and Engineering
-  date: Sep. 2016 - Jul. 2020
+- *2019.06 - 2022.04*, Doctor, Shenzhen University, College of Applied Technology, Shenzhen.
+- *2015.09 - 2019.06*, Master, Hunan Institute of Science and Technology, Department of Information Science and Engineering, Yueyang.
+- *2016.09 - 2020.06*, Undergraduate, Hunan Institute of Science and Technology, Department of Information Science and Engineering, Yueyang.
