@@ -12,14 +12,14 @@ main:
   - title: "News"
     url: "/#-news"
 
-#  - title: "Invited Talks"
-#    url: "/#-invited-talks"
-
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Projects"
-   url: "/#-projects"
+    url: "/#-projects"
 
 #  - title: "Internships"
 #   url: "/#-internships"
+
+#  - title: "Invited Talks"
+#    url: "/#-invited-talks"
