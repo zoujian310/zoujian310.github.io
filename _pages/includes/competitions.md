@@ -1,6 +1,6 @@
 # 💬 Competitions
 
-- *2022.12.10* Our team (**Jian Zou**, Min Li, and Zengjia Yuan) was awarded the **second prize** for <i>mmWave FMCW Radar-based position</i> in the 19th china Post-Graduate Mathematical Contest in Modeling. [<a target="_blank" href="./images/Competition_2022_3.pdf" >Certificate</a>]
+- *2023.01.15* Our team (**Jian Zou**, Min Li, and Zengjia Yuan) was awarded the **second prize** for <i>mmWave FMCW Radar-based position</i> in the 19th china Post-Graduate Mathematical Contest in Modeling. [<a target="_blank" href="./images/Competition_2022_3.pdf" >Certificate</a>]
 
 - *2022.12.10* Our team (**Jian Zou**, Chunlin Zhao, Min Li, and Yixuan Li) was awarded the **tenth place** for <i>AI-based joint design of channel estimation and channel state information feedback</i> in the the third Wireless Communication AI Competition (Proportion of the first prize = 1.38%). [<a target="_blank" href="./images/Competition_2022_2.jpg" >Certificate</a>]
 
