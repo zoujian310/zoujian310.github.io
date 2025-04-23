@@ -2,7 +2,7 @@
 
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
- - **Jian Zou**, Jian Xiao, Qingyu Mao, Shuai Liu, Bohuai Xiao, and Yongsheng Liang*, [Deep Receiver for Multi-Layer Data Transmission with Superimposed Pilots](https://ieeexplore.ieee.org/document/10890516), **<i>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>**, [<a target="_blank" href="./images/ICASSP 2025-Poster - New.pdf" >Poster</a>][<a target="_blank" href="./images/ICASSP 2025 - ppt.pdf" >PPT</a>].
+ - **Jian Zou**, Jian Xiao, Qingyu Mao, Shuai Liu, Bohuai Xiao, and Yongsheng Liang*, [Deep Receiver for Multi-Layer Data Transmission with Superimposed Pilots](https://ieeexplore.ieee.org/document/10890516), **<i>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>**. [<a target="_blank" href="./images/ICASSP 2025-Poster - New.pdf" >Poster</a>][<a target="_blank" href="./images/ICASSP 2025 - ppt.pdf" >PPT</a>]
 
 #### 👄 2024
  - **Jian Zou**, Qingyu Mao, Jian Xiao, Shuai Liu, and Yongsheng Liang*, [Distributed Learning-Based Channel Estimation and Feedback for RIS-Aided Wireless Communications](https://doi.org/10.1109/LWC.2024.3509612), **<i>IEEE Wireless Communications Letters (IEEE WCL)</i>**.
