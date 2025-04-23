@@ -17,6 +17,8 @@ redirect_from:
 
 {% include_relative includes/honers.md %}
 
+{% include_relative includes/competitions.md %}
+
 {% include_relative includes/my_pub.md %}
 
 {% include_relative includes/projects.md %}
