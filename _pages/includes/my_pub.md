@@ -19,3 +19,5 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🧑‍🎨 2021
 - Xinzhong Liu, **Jian Zou**, Wenwu Xie*, Xin Peng, and Chunlai Li, [Performance Analysis of RIS‐Assisted Mixed Dual‐Hop FSO‐RF Communication Systems over Exponentiated Weibull Channels](https://doi.org/10.1155/2021/9273373), **<i>Security and Communication Networks</i>**.
+
+- 谢文武, **邹建**, 杨锦霞, 李易轩, 刘新忠*, [oDSP 载波恢复算法设计与资源优化](https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPACJLx-IaQqAw0aKwBzXNK442NSwyunz7BLJ3ZHnazgq8I2a3Ndqprmx4izvOyY3I3r4W2q5WdwieNaems-ZjaO-pKirgt6J2gtrta-mt_inbIdec5VS3pk3tFLp71ZaYuo40uCb3shb4pdF0qpa2ll0ziGDFqPwpKnKpBGeESag==&uniplatform=NZKPT&language=CHS), **<i>数学的实践与认识</i>**.
