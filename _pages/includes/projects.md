@@ -1,6 +1,6 @@
 # 💻 Projects
 
-- *2021.07.14* The project titled (**<i>SmartTour Guide: An Integrated Intelligent System for Smart Travel and Scenic Area Management</i>**) was funded by the College of Innovation and Entrepreneurship at Hunan Institute of Science and Technology, Principal Investigator.
+- *2021.05.30* The project titled (**<i>SmartTour Guide: An Integrated Intelligent System for Smart Travel and Scenic Area Management</i>**) was funded by the College of Innovation and Entrepreneurship at Hunan Institute of Science and Technology, Principal Investigator.
 
 - *2021.07.14* The project titled (**<i>Research on the Performance and Security of AI-Enabled RIS Communication Systems for 6G Services</i>**) is funded by the Key Scientific Research Project of the Hunan Provincial Department of Education, Collaborator.
 
