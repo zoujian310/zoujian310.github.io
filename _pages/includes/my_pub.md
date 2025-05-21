@@ -3,7 +3,7 @@
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
 
- - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, From Analog to Digital Semantic Communications: Architectures, Challenges, and Future Directions, **<i>IEEE Wireless Communications (IEEE TCCN) (**Major Revision**)</i>**. 
+ - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, From Analog to Digital Semantic Communications: Architectures, Challenges, and Future Directions, **<i>IEEE Wireless Communications Magazine (IEEE WCM) (Major Revision)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Han Shen, Fanyang Meng, Wenwu Xie, Liang Yang, and Yongsheng Liang*, Non-Orthogonal Superimposed Pilot for Goodput Enhancement in Digital Semantic Communication, **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</i>**. 
 
