@@ -2,6 +2,9 @@
 
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
+
+ - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, From Analog to Digital Semantic Communications: Architectures, Challenges, and Future Directions, **<i>IEEE Wireless Communications (IEEE TCCN) (**Major Revision**)</i>**. 
+
  - **Jian Zou**, Jian Xiao, Han Shen, Fanyang Meng, Wenwu Xie, Liang Yang, and Yongsheng Liang*, Non-Orthogonal Superimposed Pilot for Goodput Enhancement in Digital Semantic Communication, **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Qingyu Mao, Shuai Liu, Bohuai Xiao, and Yongsheng Liang*, [Deep Receiver for Multi-Layer Data Transmission with Superimposed Pilots](https://ieeexplore.ieee.org/document/10890516), **<i>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>**. [<a target="_blank" href="./images/ICASSP 2025-Poster - New.pdf" >Poster</a>][<a target="_blank" href="./images/ICASSP 2025 - ppt.pdf" >PPT</a>]
