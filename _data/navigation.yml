@@ -28,5 +28,5 @@ main:
 #  - title: "Internships"
 #   url: "/#-internships"
 
-#  - title: "Invited Talks"
-#    url: "/#-invited-talks"
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
