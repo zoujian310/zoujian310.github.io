@@ -4,9 +4,9 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 #### 🎙 2025
 
  - Jianze Ye, Xuejuan Hu, Lingling Chen, Yuejie Huang, Hengliang Wang, **Jian Zou**, Zihao Cheng, Qianding Gao, Jingli Zhong, Shiqian Liu, and Minfei Li, UT-SIM: A Transformer-Based Feature Fusion Network for Super-Resolution Reconstruction in Structured Illumination
-Microscopy, **<i>OPTICS AND LASER TECHNOLOGY (Major Revision)<i>**.
+Microscopy, **<i>OPTICS AND LASER TECHNOLOGY (Major Revision)</i>**.
 
- - Wenwu Xie, Tao Zhang, Ming Xiong, **Jian Zou**, Peng Zhu*, Liang Yang, Multimodal Semantic Communication: Research Progress, Key Challenges, and Future Trends, **<i> IEEE Communications Standards Magazine (Accept)</i>**.
+ - Wenwu Xie, Tao Zhang, Ming Xiong, **Jian Zou**, Peng Zhu*, Liang Yang, Multimodal Semantic Communication: Research Progress, Key Challenges, and Future Trends, **<i>IEEE Communications Standards Magazine (Accept)</i>**.
 
  - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, From Analog to Digital Semantic Communications: Architectures, Challenges, and Future Directions, **<i>IEEE Wireless Communications Magazine (IEEE WCM) (Major Revision)</i>**. 
 
