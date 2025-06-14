@@ -6,7 +6,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
  - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang, Robust Deep Joint Source-Channel Coding for Video Transmission over Multipath Fading Channel, **<i>IEEE Global Communications Conference (Under Review)</i>**.
 
  - Jianze Ye, Xuejuan Hu, Lingling Chen, Yuejie Huang, Hengliang Wang, **Jian Zou**, Zihao Cheng, Qianding Gao, Jingli Zhong, Shiqian Liu, and Minfei Li, UT-SIM: A Transformer-Based Feature Fusion Network for Super-Resolution Reconstruction in Structured Illumination
-Microscopy, **<i>Optics & Laser Technology (Major Revision)</i>**.
+Microscopy, **<i>Optics and Laser Technology (Major Revision)</i>**.
 
  - Wenwu Xie, Tao Zhang, Ming Xiong, **Jian Zou**, Peng Zhu*, Liang Yang, [Multimodal Semantic Communication: Research Progress, Key Challenges, and Future Trends](https://ieeexplore.ieee.org/document/11036084), **<i>IEEE Communications Standards Magazine </i>**.
 
