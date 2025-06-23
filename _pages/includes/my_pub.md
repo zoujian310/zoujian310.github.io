@@ -10,7 +10,7 @@ Microscopy, **<i>Optics and Laser Technology (Major Revision)</i>**.
 
  - Wenwu Xie, Tao Zhang, Ming Xiong, **Jian Zou**, Peng Zhu*, Liang Yang, [Multimodal Semantic Communication: Research Progress, Key Challenges, and Future Trends](https://ieeexplore.ieee.org/document/11036084), **<i>IEEE Communications Standards Magazine </i>**.
 
- - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, From Analog to Digital Semantic Communications: Architectures, Challenges, and Future Directions, **<i>IEEE Wireless Communications Magazine (IEEE WCM) (Major Revision)</i>**. 
+ - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, From Analog to Digital Semantic Communications: Architectures, Challenges, and Future Directions, **<i>IEEE Wireless Communications Magazine (IEEE WCM) (Accepted)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Han Shen, Fanyang Meng, Wenwu Xie, Liang Yang, and Yongsheng Liang*, [Non-Orthogonal Superimposed Pilot for Goodput Enhancement in Digital Semantic Communication](https://ieeexplore.ieee.org/document/11015528), **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</i>**. 
 
