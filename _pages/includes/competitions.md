@@ -1,4 +1,4 @@
-# 💬 Competitions
+# 📖 Competitions
 
 - *2023.01.15* Our team (**Jian Zou**, Min Li, and Zengjia Yuan) was awarded the **second prize** for <i>mmWave FMCW Radar-based position</i> in the 19th china Post-Graduate Mathematical Contest in Modeling. [<a target="_blank" href="./images/Competition_2022_3.pdf" >Certificate</a>]
 
