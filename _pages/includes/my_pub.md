@@ -21,7 +21,7 @@ microscopy, **<i>optics and laser technology (Major Revision)</i>**.
 
 - Wenwu Xie, Ming Xiong, Hongbo Xu, Ji Wang*, Liang Yang, and **Jian Zou**, [A data transmission method for feature extraction and semantic enhancement of scarce data](https://doi.org/10.1109/LWC.2024.3510722), **<i>IEEE wireless communications letters (IEEE WCL)</i>**.
 
-- Chongyang Li, Tianqian Zhang, **Jian Zou**, and Shouyin Liu, [Receiver design for non-orthogonal superimposed pilot and data in MIMO system](https://ieeexplore.ieee.org/document/10866926), **<i>2024 6th international conference on Intelligent Control, Measurement and Signal Processing (ICMSP)</i>**.
+- Chongyang Li, Tianqian Zhang, **Jian Zou**, and Shouyin Liu, [Receiver design for non-orthogonal superimposed pilot and data in MIMO system](https://ieeexplore.ieee.org/document/10866926), **<i>2024 6th international conference on intelligent control, measurement and signal processing (ICMSP)</i>**.
  
 #### 📚 2023
 - Wenwu Xie, Ming Xiong, Zhihe Yang, Wei Liu, Lvrong Fan, and **Jian Zou***, [Real and fake channel: GAN-based wireless channel modeling and generating](https://www.sciencedirect.com/science/article/abs/pii/S1874490723002173), **<i>physical communication</i>**.
