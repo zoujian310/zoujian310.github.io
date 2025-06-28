@@ -1,3 +1,3 @@
 <p style="font-size: 20px; font-weight: bold;">人生南北多歧路，君向潇湘我向秦。</p>
 <br>I received the B.Eng. degree and the M.Sc. degree at the Hunan Institute of Science and Technology under the supervision of <a href="https://scholar.google.com/citations?user=u_UQv6EAAAAJ&hl=zh-CN">associate Prof. Wenwu Xie（谢文武副教授）</a>, in 2020 and 2023, respectively. I am currently pursuing the Ph.D. degree with Shenzhen University, advised by <a href="https://scholar.google.com/citations?user=aOEk854AAAAJ&hl=zh-CN">Prof. Yongsheng Liang（梁永生教授）</a>.
-  My research interests are Intelligent Communication, Semantic Communication, Deep Joint Source-Channel Coding, Reconfigurable Intelligent Surface, Channel Estimation, Channel Feedback, and Deep Receiver.
+  My research interests are intelligent communication, semantic communication, deep joint source-channel coding, reconfigurable intelligent surface, channel estimation, channel feedback, and deep receiver.
