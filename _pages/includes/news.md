@@ -1,6 +1,6 @@
 # 🔥 News
 
-\*\*<i> Currently serves as a reviewer for PRCV (5 times), IEEE TCCN (2 times), IEEE WCL (1 time), and IEEE ECIS (3 times). </i>\*\*
+ ***Currently serves as a reviewer for PRCV (5 times), IEEE TCCN (2 times), IEEE WCL (1 time), and IEEE ECIS (3 times).*** 
 
 * *2025.06.16*: 🎉 I was invited to be a peer reviewer for the ***8th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2025)***.
 * *2025.04.20*: 🎉 I was invited to be a peer reviewer for the ***IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)***.
