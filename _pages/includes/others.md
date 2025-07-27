@@ -1,2 +1,2 @@
-# 🏛️ Invited Talks 
+# 🏛️ Invited Talks
 - *2025.05.24*, The invited speaker delivered a presentation on <a target="_blank" href="./images/Transformer-Based Channel Feedback for RIS-Aided Wireless Communication Systems - en.pdf" >Transformer-based channel feedback for RIS-aided wireless communication systems</a> at the **<i>2025 IEEE 2nd international conference on electronics, communications and intelligent science (IEEE ECIS)</i>**.[<a target="_blank" href="./images/IEEE ECIS Invitation Letter.pdf" >Invitation Letter</a>]
