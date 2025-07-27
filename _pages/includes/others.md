@@ -1,7 +1,3 @@
 # 💻 Invited Talks
 
-- *2021.05.30* The project titled (**<i>SmartTour guide: An integrated intelligent system for smart travel and scenic area management</i>**) was funded by the college of innovation and entrepreneurship at hunan institute of science and technology, principal investigator.
-
-- *2021.07.14* The project titled (**<i>Research on the performance and security of AI-enabled RIS communication systems for 6G services</i>**) is funded by the key scientific research project of the hunan provincial department of education, collaborator.
-
-- *2022.09.20* The project titled (**<i>Research and development of reconfigurable complex electromagnetic environment signal simulation equipment</i>**) was funded by the graduate innovation program of hunan province, principal investigator.  (NO.QL20220248) (Financed Proportion = 2/40). [<a target="_blank" href="./images/Project_2022_1.pdf" >File</a>]
+- *2025.05.24* The invited speaker delivered a presentation on <a target="_blank" href="./images/Transformer-Based Channel Feedback for RIS-Aided Wireless Communication Systems - en.pdf" >Transformer-based channel feedback for RIS-aided wireless communication systems</a> at the **<i>2025 IEEE 2nd international conference on electronics, communications and intelligent science (IEEE ECIS)</i>**.[<a target="_blank" href="./images/IEEE ECIS Invitation Letter.pdf" >Invitation Letter</a>]
