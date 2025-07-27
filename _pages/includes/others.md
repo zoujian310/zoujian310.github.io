@@ -1,4 +1,4 @@
-# 💻 Projectss
+# 💻 Invited Talks
 
 - *2021.05.30* The project titled (**<i>SmartTour guide: An integrated intelligent system for smart travel and scenic area management</i>**) was funded by the college of innovation and entrepreneurship at hunan institute of science and technology, principal investigator.
 
