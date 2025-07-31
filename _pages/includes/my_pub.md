@@ -3,7 +3,9 @@
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
  
- - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang, Robust deep joint source-channel coding for video transmission over multipath fading channel, **<i>IEEE global communications conference (Under Review)</i>**.
+ - Zihao Cheng,  Xuejuan Hu, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao and Wen Liang, DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy, **<i>optics and laser technology</i>**.
+
+ - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang, Robust deep joint source-channel coding for video transmission over multipath fading channel, **<i>IEEE global communications conference (Accepted)</i>**.
 
  - Jianze Ye, Xuejuan Hu, Lingling Chen, Yuejie Huang, Hengliang Wang, **Jian Zou**, Zihao Cheng, Qianding Gao, Jingli Zhong, Shiqian Liu, and Minfei Li, [UT-SIM: A transformer-based feature fusion network for super-resolution reconstruction in structured illumination
 microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225011429?dgcid=coauthor), **<i>optics and laser technology</i>**.
