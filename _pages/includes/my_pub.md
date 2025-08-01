@@ -3,11 +3,11 @@
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
  
- - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy, **<i>optics and laser technology</i>**.
+ - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy, **<i>optics and laser technology (Under Review)</i>**.
 
  - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang*, Robust deep joint source-channel coding for video transmission over multipath fading channel, **<i>IEEE global communications conference (Accepted)</i>**.
 
-- Han Shen, Qifu Tyler Sun, Fanyang Meng, Ye Wang, **Jian Zou**, Zongpeng Li,  and Yongsheng Liang*, A learned network coding scheme for robust image transmission in lossy relay networks, **<i>IEEE transactions on cognitive communications and networking (IEEE TCCN)</i>**. 
+- Han Shen, Qifu Tyler Sun, Fanyang Meng, Ye Wang, **Jian Zou**, Zongpeng Li,  and Yongsheng Liang*, A learned network coding scheme for robust image transmission in lossy relay networks, **<i>IEEE transactions on cognitive communications and networking (IEEE TCCN) (Under Review)</i>**. 
 
  - Jianze Ye, Xuejuan Hu*, Lingling Chen, Yuejie Huang, Hengliang Wang, **Jian Zou**, Zihao Cheng, Qianding Gao, Jingli Zhong, Shiqian Liu, and Minfei Li, [UT-SIM: A transformer-based feature fusion network for super-resolution reconstruction in structured illumination
 microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225011429?dgcid=coauthor), **<i>optics and laser technology</i>**.
