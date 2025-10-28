@@ -1,6 +1,6 @@
 # 🔥 News
 
-Currently serves as a reviewer for **<i>IEEE TMLCN (1 time), IEEE TWC (1 time), PRCV (5 times), IEEE TCCN (2 times), IEEE WCL (1 time), and IEEE ECIS (3 times)</i>**.
+Currently serves as a reviewer for **<i>IEEE TMLCN (1 time), IEEE TWC (2 time), PRCV (5 times), IEEE TCCN (2 times), IEEE WCL (1 time), and IEEE ECIS (3 times)</i>**.
 
 2025.09.06: 🎉 I was invited to be a peer reviewer for the **<i>IEEE Transactions on Machine Learning in Communications and Networking (IEEE TMLCN)</i>**.
 

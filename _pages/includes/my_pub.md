@@ -3,7 +3,7 @@
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
  
- - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy, **<i>optics and laser technology (Minor Revision)</i>**.
+ - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy, **<i>optics and laser technology (Accepted)</i>**.
 
  - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang*, Robust deep joint source-channel coding for video transmission over multipath fading channel, **<i>IEEE global communications conference (Accepted)</i>**.
 
