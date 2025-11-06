@@ -2,7 +2,7 @@
 
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
- - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed Pilots-Based Adaptive Semantic Communication in MU-MIMO OFDM Systems, **<i>IEEE transactions on wireless communications (Under Review)</i>**. 
+ - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE transactions on wireless communications (Under Review)</i>**. 
 
  - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>IEEE Journal of Biomedical and Health Informatics (Under Review)</i>**.
 
