@@ -4,9 +4,9 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 #### 🎙 2025
  - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE transactions on wireless communications (Under Review)</i>**. 
 
- - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>IEEE Journal of Biomedical and Health Informatics (Under Review)</i>**.
+ - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>IEEE journal of biomedical and health informatics (Under Review)</i>**.
 
- - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy, **<i>optics and laser technology (Accepted)</i>**.
+ - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, [DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225018122?dgcid=coauthor), **<i>optics and laser technology</i>**.
 
  - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang*, Robust deep joint source-channel coding for video transmission over multipath fading channel, **<i>IEEE global communications conference (Accepted)</i>**.
 
