@@ -2,7 +2,7 @@
 
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
-- Wen Liang, Xuejuan Hu*, **Jian Zou**, Zihao Cheng, Qianding Gao, and Lihu Wang*, LFE-YOLOv9: Lightweight Multi-Scale Feature Enhancement Network for X-Ray Image-Based Battery Detection, **<i>Sustainable energy technologies and assessments (Under Review)</i>**. 
+- Wen Liang, Xuejuan Hu*, **Jian Zou**, Zihao Cheng, Qianding Gao, and Lihu Wang*, LFE-YOLOv9: Lightweight multi-scale feature enhancement network for X-Ray image-based battery detection, **<i>Sustainable energy technologies and assessments (Under Review)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE transactions on wireless communications (Under Review)</i>**. 
 
